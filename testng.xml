@@ -5,8 +5,8 @@
     </listeners>
 
     <suite-files>
-        <suite-file path="pw-api.xml" />
-        <suite-file path="pw-ui.xml" />
-        <suite-file path="pw-amzn.xml" />
+        <suite-file path="suite-xml/pw-api.xml" />
+        <suite-file path="suite-xml/pw-ui.xml" />
+        <suite-file path="suite-xml/pw-amzn.xml" />
     </suite-files>
 </suite>
