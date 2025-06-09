@@ -75,7 +75,6 @@ public class EmailClient {
             System.out.println("Email sent successfully.");
 
         } catch (MessagingException mex) {
-            dumpHtmlToFile(htmlBody, "test-output/failed_email_dump.html");
             mex.printStackTrace();
         }
     }
